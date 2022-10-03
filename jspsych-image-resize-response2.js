@@ -108,7 +108,7 @@ jsPsych.plugins["image-resize-response2"] = (function() {
 //html += '<div id="arrow" style="position: relative; top: -50px"><img src="img/stick.png" height="150" width="20"></div>'; //rotate the image
 
 //html += '<div id="jspsych-image-resize-response-handle" style="cursor: move; background-color: red; width: 10px; height: 10px; border: 2px solid lightsteelblue; position: absolute; bottom: 0; right: 0; "></div>';
-html += '<div id="jspsych-image-resize-response-handle" style="cursor: move; background-color: red; width: 15px; height: 150px; border: 2px solid black; position: absolute; bottom: 0; right: 0; "></div>';
+html += '<div id="jspsych-image-resize-response-handle" style="cursor: move; background-color: black; width: 15px; height: 150px; border: 2px solid black; position: absolute; bottom: 0; right: 0; "></div>';
 
 
 
